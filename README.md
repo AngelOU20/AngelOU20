@@ -1,7 +1,9 @@
 <div align="center">
   <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi!+There!+👋;+I'm+Julio+Ucharima!;" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&pause=3000&center=true&vCenter=true&repeat=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Julio+Ucharima!" alt="Typing SVG" />
   </h1>
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=3000&center=true&vCenter=true&random=false&repeat=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Julio+Ucharima!)](https://git.io/typing-svg) -->
 
   <h3 align="center">A passionate frontend developer from Peru</h3>
 
@@ -36,13 +38,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-
-<img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AngelOU20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-<img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=AngelOU20&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-<br>
-
-<img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOU20&layout=compact&theme=react&border_radius=10" />
-
+  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AngelOU20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=AngelOU20&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br>
+  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOU20&layout=compact&theme=react&border_radius=10" />
 </div>
