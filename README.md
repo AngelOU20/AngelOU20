@@ -1,37 +1,48 @@
 <div align="center">
-  <h1 align="center">Hi! 👋 I'm Julio Ucharima</h1>
+  <h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi!+There!+👋;+I'm+Julio+Ucharima!;" />
+  </h1>
+
   <h3 align="center">A passionate frontend developer from Peru</h3>
+
+  <div align="center"> 
+    <a href="mailto:julioucharima89@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/julio-angel-ucharima-ortiz-05a994221/" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://github.com/AngelOU20" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    </a>
+  </div>
 </div>
 
 ---
 
-<h3>🚀 Skills and Tools:</h3>
+<h2 align="center">🚀 Skills and Tools:</h2>
 
-- **Frontend Technologies:**
-  <p align="left" style="margin-top: 15px; margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45" style="margin-right: 20px;"/>
-  </p>
-
-- **Backend Technologies:**
-  <p align="left" style="margin-top: 15px; margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" style="margin-right: 20px;"/>
-  </p>
-
-- **Other Technologies:**
-  <p align="left" style="margin-top: 15px; margin-bottom: 15px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" style="margin-right: 20px;"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin-right: 20px;"/>
-  </p>
+<div align="center">
+  <h3>Frontend Technologies: </h3>
+    <img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,mui,html,css,tailwind,bootstrap,vite" />
+  <h3>Backend Technologies: </h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,dotnet,cs" />
+  <h3>Other Technologies:</h3>
+    <img src="https://skillicons.dev/icons?i=figma,git,postman,firebase,mongodb,mysql,postgresql" />
+</div>
 
 ---
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div align="center">
+
+<img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AngelOU20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+<img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=AngelOU20&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+<br>
+
+<img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOU20&layout=compact&theme=react&border_radius=10" />
+
+</div>
