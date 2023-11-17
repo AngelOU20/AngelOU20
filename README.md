@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 align="center">
+  <!-- <h1 align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&pause=3000&center=true&vCenter=true&repeat=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Julio+Ucharima!" alt="Typing SVG" />
-  </h1>
+  </h1> -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=3000&center=true&vCenter=true&random=false&repeat=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Julio+Ucharima!)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=3000&center=true&vCenter=true&random=false&repeat=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Julio+Ucharima!)](https://git.io/typing-svg)
 
   <h3 align="center">A passionate frontend developer from Peru</h3>
 
