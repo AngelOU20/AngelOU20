@@ -1,11 +1,11 @@
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=3000&center=true&vCenter=true&random=false&repeat=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Julio+Ucharima!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=3000&center=true&vCenter=true&random=false&repeat=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Julio+Ucharima!)](https://git.io/typing-svg)
 
   <h3 align="center">A passionate frontend developer from Peru</h3>
 
   <div align="center">
-    <a href="mailto:julioucharima89@gmail.com">
+    <a href="mailto:angelprueba81@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://www.linkedin.com/in/julio-angel-ucharima-ortiz-05a994221/" target="_blank">
