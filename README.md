@@ -34,7 +34,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div style="display: flex;justify-content: center; align-items: center">
+<div align="center">
   <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOU20&layout=compact&theme=react&border_radius=10" />
   <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=AngelOU20&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
 </div>
