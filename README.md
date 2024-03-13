@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/julio-angel-ucharima-ortiz-05a994221/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://github.com/AngelOU20" target="_blank">
+    <a href="https://julioucharima-portfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
     </a>
   </div>
